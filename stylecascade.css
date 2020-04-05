@@ -1,0 +1,12 @@
+﻿.body {
+  font-family: monospace;
+}
+.header {
+  background: #000000;
+  color: #ffffff;
+  font-family: sans-serif;
+}
+.section {
+  background: #ffcccc;
+  color: #330000;
+}
