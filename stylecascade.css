@@ -1,0 +1,12 @@
+﻿.body {
+  font-family: 'Comic Neue', cursive;
+}
+.header {
+  background: #000000;
+  color: #ffffff;
+  font-family: 'Nunito', sans-serif;
+}
+.section {
+  background: #ffcccc;
+  color: #330000;
+}
