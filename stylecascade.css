@@ -1,10 +1,10 @@
 ﻿.body {
-  font-family: monospace;
+  font-family: 'Comic Neue', cursive;
 }
 .header {
   background: #000000;
   color: #ffffff;
-  font-family: sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 .section {
   background: #ffcccc;
